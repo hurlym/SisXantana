@@ -63,6 +63,12 @@
     <Compile Include="Deposito\IniDepo.Designer.cs">
       <DependentUpon>IniDepo.cs</DependentUpon>
     </Compile>
+    <Compile Include="Deposito\ModificacionDeposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deposito\ModificacionDeposito.Designer.cs">
+      <DependentUpon>ModificacionDeposito.cs</DependentUpon>
+    </Compile>
     <Compile Include="Facturacion\IniFacturacion.cs">
       <SubType>Form</SubType>
     </Compile>
