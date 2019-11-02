@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaXantana", "SistemaXantana\SistemaXantana.csproj", "{09206C8B-48CE-471F-A608-4FB3ACFC8DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBussines", "ClassBusiness\ClassBussines.csproj", "{C4E0731A-547A-4C59-B423-DD75B6116D6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassConexion", "ClassConexion\ClassConexion.csproj", "{767771F3-AD3A-477E-BB95-A0512A674357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09206C8B-48CE-471F-A608-4FB3ACFC8DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09206C8B-48CE-471F-A608-4FB3ACFC8DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09206C8B-48CE-471F-A608-4FB3ACFC8DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09206C8B-48CE-471F-A608-4FB3ACFC8DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E0731A-547A-4C59-B423-DD75B6116D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E0731A-547A-4C59-B423-DD75B6116D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E0731A-547A-4C59-B423-DD75B6116D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E0731A-547A-4C59-B423-DD75B6116D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767771F3-AD3A-477E-BB95-A0512A674357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767771F3-AD3A-477E-BB95-A0512A674357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767771F3-AD3A-477E-BB95-A0512A674357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767771F3-AD3A-477E-BB95-A0512A674357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
