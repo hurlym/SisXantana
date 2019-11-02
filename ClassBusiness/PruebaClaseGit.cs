@@ -8,5 +8,6 @@ namespace ClassBusiness
 {
     class PruebaClaseGit
     {
+        private string test_attribute;
     }
 }
