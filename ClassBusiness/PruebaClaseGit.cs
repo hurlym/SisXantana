@@ -9,12 +9,16 @@ namespace ClassBusiness
     class PruebaClaseGit
     {
 
+
         //RODRI ANDATE A LA CONCHA DE TU HERMANA
 
         //VOS Y EL GIT.
 
         //FORRO
 
+
+
+        private string test_attribute;
 
     }
 }
